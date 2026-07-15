@@ -6,7 +6,7 @@
  * @author Stemkoski / http://www.adelphi.edu/~stemkoski : An implementation of water shader based on the flat mirror
  * @author Jonas Wagner / http://29a.ch/ && http://29a.ch/slides/2012/webglwater/ : Water shader explanations in WebGL
  * * Modified by:
- * @author Joao P. / [O teu link do GitHub ou LinkedIn] : Water surface distortion adjustment and transparency tuning
+ * @author Joao P. / [https://github.com/jsCoding16/three-custom-water] : Water surface distortion adjustment and transparency tuning
  */
 
 THREE.Water = function ( geometry, options ) {
